@@ -61,8 +61,7 @@ Lab9Web/
     │                           # validasiEmail, ringkasTeks, flash, CSRF, isActive
     ├── modules/user/           # list, add, edit, delete (+ _form.php)
     └── assets/css, assets/js
-├── screenshots/                # 17 bukti hasil pengujian (dipakai di laporan)
-└── laporan/                    # Laporan Praktikum 9 (Word)
+└── screenshots/                # 17 bukti hasil pengujian (dipakai di laporan)
 ```
 
 ## Cara menjalankan
